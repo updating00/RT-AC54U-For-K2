@@ -1,0 +1,4 @@
+openpam_vasprintf.lo .libs/openpam_vasprintf.o: openpam_vasprintf.c \
+  ../../config.h
+
+../../config.h:

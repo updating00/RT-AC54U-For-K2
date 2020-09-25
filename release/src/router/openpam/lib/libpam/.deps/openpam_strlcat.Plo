@@ -1,0 +1,4 @@
+openpam_strlcat.lo .libs/openpam_strlcat.o: openpam_strlcat.c \
+  ../../config.h
+
+../../config.h:

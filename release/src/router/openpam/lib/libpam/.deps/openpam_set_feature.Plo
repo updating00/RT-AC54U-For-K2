@@ -1,0 +1,35 @@
+openpam_set_feature.lo .libs/openpam_set_feature.o:  \
+ openpam_set_feature.c ../../config.h ../../include/security/pam_appl.h \
+  ../../include/security/pam_types.h \
+  /home/RT-AC54U/asuswrt/tools/brcm/K26/hndtools-mipsel-uclibc-4.2.4/bin/../lib/gcc/mipsel-linux-uclibc/4.2.4/include/stddef.h \
+  ../../include/security/pam_constants.h \
+  ../../include/security/openpam_version.h \
+  ../../include/security/openpam_attr.h ../../include/security/openpam.h \
+  /home/RT-AC54U/asuswrt/tools/brcm/K26/hndtools-mipsel-uclibc-4.2.4/bin/../lib/gcc/mipsel-linux-uclibc/4.2.4/include/stdarg.h \
+  openpam_impl.h openpam_constants.h openpam_debug.h openpam_features.h
+
+../../config.h:
+
+../../include/security/pam_appl.h:
+
+../../include/security/pam_types.h:
+
+/home/RT-AC54U/asuswrt/tools/brcm/K26/hndtools-mipsel-uclibc-4.2.4/bin/../lib/gcc/mipsel-linux-uclibc/4.2.4/include/stddef.h:
+
+../../include/security/pam_constants.h:
+
+../../include/security/openpam_version.h:
+
+../../include/security/openpam_attr.h:
+
+../../include/security/openpam.h:
+
+/home/RT-AC54U/asuswrt/tools/brcm/K26/hndtools-mipsel-uclibc-4.2.4/bin/../lib/gcc/mipsel-linux-uclibc/4.2.4/include/stdarg.h:
+
+openpam_impl.h:
+
+openpam_constants.h:
+
+openpam_debug.h:
+
+openpam_features.h:

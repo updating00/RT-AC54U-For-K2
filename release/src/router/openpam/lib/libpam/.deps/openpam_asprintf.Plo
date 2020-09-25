@@ -1,0 +1,4 @@
+openpam_asprintf.lo .libs/openpam_asprintf.o: openpam_asprintf.c \
+  ../../config.h
+
+../../config.h:
